@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996648184059",
+    "firebase_url": "https://eye-remote-default-rtdb.firebaseio.com",
+    "project_id": "eye-remote",
+    "storage_bucket": "eye-remote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996648184059:android:0b532d5226f98c8312285e",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996648184059-1s3usvfu1gck6vqfc76rr93un1ml1cpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWSjibUx3kcSZFlFq86r5Q8uEmNhnqPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996648184059-1s3usvfu1gck6vqfc76rr93un1ml1cpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
